@@ -1,3 +1,12 @@
+<h3>DATABASE ADA DI FILE PALING LUAR DENGAN NAMA LARAVEL11.SQL</h3>
+
+<h2> AKUN LOGIN</h2>
+<p> admin@gmail.com ( admin )</p>
+<p>fikri@gmail.com ( siswa )</p>
+<p> dosen@gmail.com ( dosen )</p>
+
+password semua sama yaitu : password
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
